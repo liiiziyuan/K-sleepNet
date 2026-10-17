@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Experiment artifacts
+runs/
+checkpoints/
+*.pth
+*.npz
+
+# Data
+data/
+*.edf
+
+# OS
+.DS_Store
+Thumbs.db

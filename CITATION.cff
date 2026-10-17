@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite our paper."
+type: paper
+title: "K-SleepNet: Knowledge-Enhanced Single-Channel Sleep Staging via Dual-Stream Multi-Task Learning"
+authors:
+  - family-names: Yu
+    given-names: Qiuchen
+  - family-names: Li
+    given-names: Ziyi
+  - family-names: Wang
+    given-names: Qisong
+  - family-names: Liu
+    given-names: Xinxin
+  - family-names: Lei
+    given-names: Xiaochen
+  - family-names: Zhang
+    given-names: Xurui
+  - family-names: Gao
+    given-names: Guosong
+  - family-names: Hou
+    given-names: Zhongjie
+  - family-names: Bai
+    given-names: Hua
+  - family-names: Li
+    given-names: Jiayue
+  - family-names: Chen
+    given-names: Xiaohe
+doi: 10.1109/CSCWD68734.2026.11581617
+year: 2026
+preferred-citation:
+  type: proceedings-article
+  title: "K-SleepNet: Knowledge-Enhanced Single-Channel Sleep Staging via Dual-Stream Multi-Task Learning"
+  authors:
+    - family-names: Yu
+      given-names: Qiuchen
+    - family-names: Li
+      given-names: Ziyi
+    - family-names: Wang
+      given-names: Qisong
+    - family-names: Liu
+      given-names: Xinxin
+    - family-names: Lei
+      given-names: Xiaochen
+    - family-names: Zhang
+      given-names: Xurui
+    - family-names: Gao
+      given-names: Guosong
+    - family-names: Hou
+      given-names: Zhongjie
+    - family-names: Bai
+      given-names: Hua
+    - family-names: Li
+      given-names: Jiayue
+    - family-names: Chen
+      given-names: Xiaohe
+  container-title: "2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD)"
+  year: 2026
+  start: 3646
+  end: 3651
+  doi: 10.1109/CSCWD68734.2026.11581617
